@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7085d841-5085-46b4-8476-fb67d5274f7c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/singleton/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/singleton/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/singleton/SettingsDoubleCheckedLocking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/singleton/SettingsEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/singleton/SettingsInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/singleton/SettingsSync.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/singleton/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/singleton/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/singleton/Settings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650814054375</updated>
-      <workItem from="1650814055605" duration="2867000" />
+      <workItem from="1650814055605" duration="6051000" />
     </task>
     <servers />
   </component>
